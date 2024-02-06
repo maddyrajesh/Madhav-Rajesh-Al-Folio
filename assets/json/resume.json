@@ -1,199 +1,137 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "MADHAV RAJESH",
+    "label": "Master of Science in Computer Science Student",
+    "email": "madhavrajesh.cs@gmail.com",
+    "phone": "(858)-744-1351",
+    "url": "https://github.com/maddyrajesh",
+    "summary": "A proactive Master of Science in Computer Science student specializing in algorithms, cloud computing, and quantum computing. Experienced in software development and research with a robust foundation in data structures, machine learning, and full-stack development.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "Phoenix, AZ",
+      "postalCode": "",
+      "city": "Phoenix",
       "countryCode": "US",
-      "region": "California"
+      "region": "Arizona"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "madhavrajesh",
+        "url": "https://linkedin.com/in/madhavrajesh"
+      },
+      {
+        "network": "GitHub",
+        "username": "maddyrajesh",
+        "url": "https://github.com/maddyrajesh"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "Arizona State University",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2022",
+      "endDate": "2024",
+      "gpa": "3.26/4.00",
+      "courses": [
+        "Algorithms",
+        "Advanced Networks",
+        "Combinatorics and Optimization",
+        "Cloud Computing",
+        "Quantum Computing"
+      ]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "institution": "Vellore Institute of Technology",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2018",
+      "endDate": "2022",
+      "gpa": "8.23/10.00",
+      "courses": [
+        "Data Structures",
+        "Database Management System",
+        "Computer Networks",
+        "Operating Systems",
+        "Machine Learning"
       ]
     }
   ],
-  "languages": [
+  "work": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "company": "Vellore Institute of Technology",
+      "position": "Undergraduate Researcher",
+      "startDate": "2021-01",
+      "endDate": "2022-05",
+      "summary": "Trained a CNN-RF model for real-time processing of rainforest audio; deployed an alert system with recycled phones for threat detection; achieved a 92.7% accuracy.",
+      "highlights": [
+        "Processed 17,000+ hours of Rainforest Audio in real time.",
+        "Deployed an alert system instantly detecting threats such as chainsaws and trucks.",
+        "Achieved a 92.7% accuracy, surpassing benchmarks."
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "company": "FreshToHome",
+      "position": "Software Engineer, Intern",
+      "startDate": "2021-02",
+      "endDate": "2021-05",
+      "summary": "Optimized a recommendation engine using RNN models for 1.5 million active users; implemented real-time data solutions with Redis Streams and Apache Spark.",
+      "highlights": [
+        "Enhanced user experience by optimizing recommendation engine.",
+        "Achieved sub-20ms latency with real-time data solutions.",
+        "Boosted user engagement and session duration."
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Hybrid Cloud for Smart Education",
+      "description": "Engineered a scalable AWS Lambda-based application for live classroom video footage processing; utilized Ceph for object storage.",
+      "highlights": [
+        "Handled 10,000+ video hours with 99.6% accuracy in student identification.",
+        "Reduced response times by 40% using OpenFaaS on Kubernetes.",
+        "Supported 5 TB of video data with enhanced data throughput by 50%."
+      ],
+      "keywords": ["AWS Lambda", "Kubernetes", "Ceph"],
+      "startDate": "2023-07",
+      "endDate": "2023-12"
+    },
+    {
+      "name": "P4 DDoS Attack Detection",
+      "description": "Developed a P4-based DDoS detection system; showcased effectiveness on the FABRIC testbed with over 5 million requests per second.",
+      "highlights": [
+        "Achieved 98.2% threat detection with minimal delay.",
+        "Identified 96% of attack packets with improved hashing.",
+        "Validated scalability and effectiveness on the FABRIC testbed."
+      ],
+      "keywords": ["P4", "DDoS Detection", "FABRIC testbed"],
+      "startDate": "2023-01",
+      "endDate": "2023-05"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "level": "",
+      "keywords": [
+        "Python", "C", "C#", "C++", "HTML", "CSS", "JavaScript", "Java", "Kotlin", "Dart", "MATLAB", "Go", "Rust", "P4",
+        "React.js", "Node.js", "Express.js", "Flask", "scikit-learn", "Keras", "TensorFlow", "NumPy", "pandas", "PyTorch",
+        "Git", "Linux", "AWS", "SQL", "MongoDB", "JWT", "CI/CD"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "IEEE VIT Vellore",
+      "position": "Vice-Chairperson",
+      "startDate": "2021-01",
+      "endDate": "2021-12",
+      "summary": "Led a cross-functional team of 80 students in technical projects, organizing hackathons and workshops on Machine Learning and Web Development.",
+      "highlights": [
+        "Led cross-functional team of 80 students in technical projects.",
+        "Organized 5 hackathons and 36 workshops, impacting 1,000+ students each semester."
+      ]
     }
   ]
 }
